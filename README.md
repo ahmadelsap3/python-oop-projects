@@ -39,8 +39,6 @@ Opening https://www.python.org...
 ```
 
 ## 3. Employee Management System (Samy's Story)
-![Alt Text](<img width="907" height="593" alt="image" src="https://github.com/user-attachments/assets/6c19778c-b959-44fb-92a2-25dfe84d7bf5" />
-)
 Located in `employee_management/` folder, this project implements a comprehensive story about an employee named Samy.
 
 ### The Story
