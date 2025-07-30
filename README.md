@@ -88,7 +88,7 @@ Samy is on time
 ```
 
 This output shows that:
-1. Samy successfully arrived at his destination (ITI)
+1. Samy successfully arrived at his destination (ITI - Smart Village branch)
 2. He arrived before 9:00 AM (considering he left at 8:00 AM and took 20 minutes to travel 20km at 60km/h)
 
 ### Key Calculations
